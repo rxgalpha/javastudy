@@ -5,10 +5,13 @@
   <groupId>com.rxg</groupId>
   <artifactId>javastudy</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+    <modules>
+        <module>jvmstudy</module>
+    </modules>
+    <packaging>pom</packaging>
 
   <name>javastudy</name>
-  <url>http://maven.apache.org</url>
+  <url>http://www.rxg.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
