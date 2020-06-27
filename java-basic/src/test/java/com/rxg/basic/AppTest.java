@@ -1,4 +1,4 @@
-package com.rxg.javastudy;
+package com.rxg.basic;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

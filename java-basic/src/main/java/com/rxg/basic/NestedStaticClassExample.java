@@ -1,4 +1,4 @@
-package com.rxg.javastudy;
+package com.rxg.basic;
 
 /* https://www.geeksforgeeks.org/static-class-in-java/
  * https://www.cnblogs.com/kissazi2/p/3971065.html

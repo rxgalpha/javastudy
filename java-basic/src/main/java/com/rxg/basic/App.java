@@ -1,4 +1,4 @@
-package com.rxg.javastudy;
+package com.rxg.basic;
 
 import java.util.HashMap;
 import java.util.Map;

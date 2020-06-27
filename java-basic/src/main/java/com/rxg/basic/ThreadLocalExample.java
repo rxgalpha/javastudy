@@ -1,4 +1,4 @@
-package com.rxg.javastudy;
+package com.rxg.basic;
 
 /*
  * http://ifeve.com/java-threadlocal的使用/
@@ -13,7 +13,7 @@ class MyRunnable implements Runnable {
         try {
         Thread.sleep(2000);
         } catch (InterruptedException e) {
-
+            e.printStackTrace();
         }
         System.out.println(threadLocal.get());
     }
