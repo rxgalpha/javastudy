@@ -1,4 +1,4 @@
-package log4j;
+package log4j2;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
